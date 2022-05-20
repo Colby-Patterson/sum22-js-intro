@@ -216,7 +216,15 @@
 
 //1. how do you define a function in javascript
 
+function myFunction(param) {
+  // TODO
+}
+
  //- how do define an arrow function
+
+ const myArrowFunction = (param) => {
+   // TODO
+ }
 
  //- how do you define an regular function
 
