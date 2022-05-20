@@ -173,9 +173,8 @@
 // checks if the condition in the if statement contained within is true.
 // If so, it does the action inside that if statement.
 
+
 //LOOPS
-
-
 
 
 //1. what is for loop in javascript
@@ -356,6 +355,11 @@
 
 //5. When should you use reduce(), map(), foreach() and filter() in js?
 
+// Reduce is useful for summing up certain values in an array. Map can perform
+// a function on each element in the array and return a new array if that is
+// needed. foreach does not return a new array, but instead mutates the
+// existing array, if that's what's needed. Finally, filter is useful for finding
+// only values from an array that meet specified criteria.
 
 
 
